@@ -1,0 +1,22 @@
+{
+  "name": "webchat",
+  "version": "1.0.0",
+  "description": "Webchat using NodeJS and Websockets",
+  "main": "server.js",
+  "dependencies": {
+    "websocket": "^1.0.22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Chat",
+    "Websocket",
+    "NodeJS",
+    "Websocket-Server"
+  ],
+  "author": "Thomas Manfred Spitzer",
+  "license": "ISC"
+}
